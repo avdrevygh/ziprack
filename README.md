@@ -55,7 +55,7 @@ A Python-based ZIP password recovery tool that uses dictionary/wordlist attacks 
 ### Option 1: Clone from Repository
 
 ```bash
-git clone https://github.com/zldrelf/ziprack
+git clone https://github.com/avdrevygh/ziprack
 cd ziprack
 ```
 
@@ -300,7 +300,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 <div align="center">
 
-**ZIPRACK** v1.01 | Created by @andreviaaa
+**ZIPRACK** v1.01 | Created by @avdrevygh
 
 *For educational purposes only*
 
